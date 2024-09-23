@@ -31,7 +31,7 @@ export const Education = () => {
         <div class="educardDet edd2">
           <p>Software Developer</p>
           <p>Nuraltech</p>
-          <p>08/2024 - current</p>
+          <p>04/2024 - Current</p>
         </div>
         <div className="date d2"></div>
       </div>
