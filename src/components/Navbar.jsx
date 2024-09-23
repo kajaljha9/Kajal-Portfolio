@@ -138,7 +138,8 @@ export const Navbar = () => {
         </p>
         <p>
           <a
-            href="https://drive.google.com/file/d/15gISf7QrmTHdupjvrEgyyB2YGVwapFDC/view?usp=sharing"
+            // href="https://drive.google.com/file/d/15gISf7QrmTHdupjvrEgyyB2YGVwapFDC/view?usp=sharing"
+            href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >
