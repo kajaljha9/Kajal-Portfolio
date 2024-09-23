@@ -29,9 +29,8 @@ export const Education = () => {
           <GoTriangleRight className="ic22" />
         </div>
         <div class="educardDet edd2">
-          <p>Intern</p>
+          <p>Software Developer</p>
           <p>Nuraltech</p>
-          <p>Frontend Developer</p>
           <p>08/2024 - current</p>
         </div>
         <div className="date d2"></div>
