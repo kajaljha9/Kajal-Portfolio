@@ -84,22 +84,7 @@ export const About = () => {
             </p>
           </div>
 
-          {/* <div id="mysitem">
-            <div>
-              <GoTriangleRight
-                style={{
-                  color: light ? "#dc143c" : "#64ffda",
-                  fontSize: "20px"
-                }}
-              />
-            </div>
-            <p>
-              <strong>Certificates:</strong> <br />
-              Data Analytics with Python (03/2023 - 05/2023) <br />
-              Python Data Structures (11/2022 - 11/2022) <br />
-              Data Analysis with Machine Learning (05/2023 - 05/2023)
-            </p>
-          </div> */}
+        
         </div>
 
         <div id="myimg">

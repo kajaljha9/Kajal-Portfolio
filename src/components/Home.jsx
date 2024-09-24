@@ -6,30 +6,6 @@ import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { SiGmail } from "react-icons/si";
 import TagCloud from "TagCloud";
 
-// const myTags = [
-//   "JavaScript",
-//   "CSS",
-//   "HTML",
-//   "Python",
-//   "Java",
-//   "SQL",
-//   "PowerBI",
-//   "OpenCV",
-//   "GIT",
-//   "Netlify",
-//   "C",
-//   "DSA",
-//   "C++",
-//   "OOPS",
-//   "Machine Learning",
-//   "Data Analysis",
-//   "Data Visualization",
-//   "Linux",
-//   "Git/Github",
-//   "SDLC",
-//   "System Testing",
-//   "Networking"
-// ];
 
 const myTags=[
   "HTML",
@@ -84,7 +60,7 @@ export const Home = () => {
         </p>
         <div className="homeCont">
           <a
-            // href="https://drive.google.com/file/d/15gISf7QrmTHdupjvrEgyyB2YGVwapFDC/view?usp=sharing"
+            
             href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"

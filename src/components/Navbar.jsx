@@ -138,7 +138,7 @@ export const Navbar = () => {
         </p>
         <p>
           <a
-            // href="https://drive.google.com/file/d/15gISf7QrmTHdupjvrEgyyB2YGVwapFDC/view?usp=sharing"
+            
             href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
@@ -291,11 +291,11 @@ export const Navbar = () => {
           </p>
           <p>
             <a
-              href="https://drive.usercontent.google.com/download?id=1NXy8L6nKJXybes4WASSvpkjpwRUmz1DM&export=download&authuser=0&confirm=t&uuid=d8823cf9-5cdb-455b-b77b-047ea8bdfa51&at=APZUnTVYR2eWoR68z5RSBBHupcYe:1705078621426"
+              href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
-              RESUME{" "}
+              RESUME
               <MdOpenInNew
                 fontSize={17}
                 style={{ padding: "0px", margin: "0px" }}

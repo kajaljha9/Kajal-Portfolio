@@ -3,16 +3,7 @@ import "../styles/projects.css";
 import { ThemeContext } from "../context/ThemeContext";
 import { GoProject } from "react-icons/go";
 import { FaEye } from "react-icons/fa";
-// import {
-//   SiGithub,
-//   SiHtml5,
-//   SiCss3,
-//   SiJavascript,
-//   SiReact,
-//   SiExpress,
-//   SiMongodb
-// } from "react-icons/si";
-// import blueMercury from "../assets/Screenshot (667).png";
+
 import muiicon from "../../src/assets/mui_icon.png";
 import {
   SiHtml5,
@@ -22,7 +13,6 @@ import {
   SiBootstrap,
   SiExpress,
   SiMongodb
-  // SiMongoose,
 } from "react-icons/si";
 import { FaGithub } from "react-icons/fa";
 import sql from "../assets/sql.png";
@@ -58,15 +48,13 @@ export const Projects = () => {
       <div className="projectCard">
         <div className="prCardImg">
           <img
-          className="projectss"
+            className="projectss"
             src={wanderwish}
             alt="WanderWish"
-            style={
-              {
-                webkitTransform: "scale(.84) !important",
-                transform: "scale(.84) !important",
-              }
-            }
+            style={{
+              webkitTransform: "scale(.84) !important",
+              transform: "scale(.84) !important"
+            }}
           />
         </div>
         <div className="prCardContent">
@@ -81,7 +69,13 @@ export const Projects = () => {
             Node.js, Express.js.
           </p>
           <p>
-            <span>URL: </span><a className="projectlink" href="https://wanderwish-rfy8.onrender.com/listings">https://wanderwish-rfy8.onrender.com/listings</a>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://wanderwish-rfy8.onrender.com/listings"
+            >
+              https://wanderwish-rfy8.onrender.com/listings
+            </a>
           </p>
           <div className="prCardTs">
             <SiHtml5 style={{ color: "#ef662a" }} className="tsIc" />
@@ -100,7 +94,11 @@ export const Projects = () => {
       {/* Real-time Weather App*/}
       <div className="projectCard">
         <div className="prCardImg">
-          <img className="projectss" src={weatherapp} alt="Real-time Weather App" />
+          <img
+            className="projectss"
+            src={weatherapp}
+            alt="Real-time Weather App"
+          />
         </div>
         <div className="prCardContent">
           <p>Real-time Weather App</p>
@@ -125,7 +123,11 @@ export const Projects = () => {
       {/* Simon Says Game */}
       <div className="projectCard">
         <div className="prCardImg">
-          <img className="projectss" src={simonsaysgame} alt="Simon Says Game" />
+          <img
+            className="projectss"
+            src={simonsaysgame}
+            alt="Simon Says Game"
+          />
         </div>
 
         <div className="prCardContent">
@@ -142,7 +144,13 @@ export const Projects = () => {
             <span>Tech Stack: </span>HTML, CSS, JavaScript.
           </p>
           <p>
-            <span>URL: </span><a className="projectlink" href="https://kajaljha9.github.io/Simon-Says-Game/">https://kajaljha9.github.io/Simon-Says-Game/</a>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://kajaljha9.github.io/Simon-Says-Game/"
+            >
+              https://kajaljha9.github.io/Simon-Says-Game/
+            </a>
           </p>
           <div className="prCardTs">
             <SiHtml5 style={{ color: "#ef662a" }} className="tsIc" />
@@ -174,7 +182,13 @@ export const Projects = () => {
             <span>Tech Stack: </span>HTML, CSS, JavaScript.
           </p>
           <p>
-            <span>URL: </span><a className="projectlink" href="https://kajaljha9.github.io/Todo-App/">https://kajaljha9.github.io/Todo-App/</a>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://kajaljha9.github.io/Todo-App/"
+            >
+              https://kajaljha9.github.io/Todo-App/
+            </a>
           </p>
           <div className="prCardTs">
             <SiHtml5 style={{ color: "#ef662a" }} className="tsIc" />
@@ -190,7 +204,11 @@ export const Projects = () => {
       {/* Spotify player replica */}
       <div className="projectCard">
         <div className="prCardImg">
-          <img className="projectss" src={spotifyapp} alt="Spotify Player Replica" />
+          <img
+            className="projectss"
+            src={spotifyapp}
+            alt="Spotify Player Replica"
+          />
         </div>
 
         <div className="prCardContent">
@@ -207,7 +225,13 @@ export const Projects = () => {
             <span>Tech Stack: </span>HTML, CSS, Bootstrap.
           </p>
           <p>
-            <span>URL: </span><a className="projectlink" href="https://kajaljha9.github.io/Spotify-Clone/">https://kajaljha9.github.io/Spotify-Clone/</a>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://kajaljha9.github.io/Spotify-Clone/"
+            >
+              https://kajaljha9.github.io/Spotify-Clone/
+            </a>
           </p>
           <div className="prCardTs">
             <SiHtml5 style={{ color: "#ef662a" }} className="tsIc" />
@@ -220,7 +244,11 @@ export const Projects = () => {
       {/* Photography Page */}
       <div className="projectCard">
         <div className="prCardImg">
-          <img className="projectss" src={photographypage} alt="Photography Page" />
+          <img
+            className="projectss"
+            src={photographypage}
+            alt="Photography Page"
+          />
         </div>
         <div className="prCardContent">
           <p>Photography Page</p>
@@ -236,7 +264,13 @@ export const Projects = () => {
             <span>Tech Stack: </span>HTML, CSS.
           </p>
           <p>
-            <span>URL: </span><a className="projectlink" href="https://kajaljha9.github.io/PhotographyPage/">https://kajaljha9.github.io/PhotographyPage/</a>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://kajaljha9.github.io/PhotographyPage/"
+            >
+              https://kajaljha9.github.io/PhotographyPage/
+            </a>
           </p>
           <div className="prCardTs">
             <SiHtml5 style={{ color: "#ef662a" }} className="tsIc" />
