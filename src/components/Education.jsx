@@ -22,7 +22,7 @@ export const Education = () => {
         Educ<span>a</span>ti<span>o</span>n Details
       </p>
 
-      <div className="educard" data-aos="zoom-in">
+      {/* <div className="educard" data-aos="zoom-in">
         <div id="edu2">
           <GoTriangleLeft className="ic21" />
           <FaUserGraduate className="ic" />
@@ -34,7 +34,7 @@ export const Education = () => {
           <p>04/2024 - Current</p>
         </div>
         <div className="date d2"></div>
-      </div>
+      </div> */}
       <div className="educard" data-aos="zoom-in">
         <div id="edu1">
           <GoTriangleLeft className="ic21" />
@@ -74,8 +74,7 @@ export const Education = () => {
           <p>Class 12 (Higher Secondary)</p>
           <p>Govt. Co-Edu Sr Sec School, New Delhi</p>
           <p>
-            Science Stream - Physics, Chemistry, Biology, Maths, Physical
-            Education
+            Science Stream
           </p>
           <p>2017</p>
         </div>

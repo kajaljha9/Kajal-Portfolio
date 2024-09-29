@@ -6,8 +6,7 @@ import { BsLinkedin, BsGithub } from "react-icons/bs";
 import { SiGmail } from "react-icons/si";
 import TagCloud from "TagCloud";
 
-
-const myTags=[
+const myTags = [
   "HTML",
   "CSS",
   "JavaScript",
@@ -21,7 +20,7 @@ const myTags=[
   "Material UI",
   "Git",
   "GitHub",
-  "MVC Architecture",
+  "MVC Architecture"
 ];
 
 export const Home = () => {
@@ -50,18 +49,22 @@ export const Home = () => {
         <p>Hi, I am</p>
         <p>Kajal Jha.</p>
         <p>
-          I'm a <span>&nbsp;Software Developer.</span>
+          I'm a <span>&nbsp;Web Developer.</span>
         </p>
         <p>
-          Enthusiastic problem solving professional with a passion for software
-          development . Proficient in Frontend Technologies: HTML, CSS,
-          JavaScript, Bootstrap, ReactJS. Eager to contribute to a dynamic team
-          and apply my skills in a collaborative environment.
+          Aspiring Web Developer with hands-on experience in React.js, Node.js,
+          Express.js, and MongoDB. I have a proven ability to design and
+          implement user-friendly interfaces while collaborating effectively
+          within cross-functional teams. I am eager to leverage my skills in web
+          development roles, driven by a passion for continuous learning and a
+          commitment to delivering high-quality software solutions. I thrive on
+          tackling challenges and am excited about the opportunity to contribute
+          to innovative projects.
         </p>
         <div className="homeCont">
           <a
-            
-            href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
+            // href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
+            href="https://drive.google.com/file/d/1tBAuAmsQmLzqLEySzNggaDpWFqNVrQze/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >

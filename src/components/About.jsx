@@ -64,7 +64,7 @@ export const About = () => {
             <p>
               My journey is marked by extensive hands-on experience with
               real-world projects, where I have leveraged my expertise in Full
-              Stack development to drive impactful solutions.
+              Stack web development to drive impactful solutions.
             </p>
           </div>
 
@@ -86,6 +86,12 @@ export const About = () => {
 
         
         </div>
+
+
+
+        
+
+        
 
         <div id="myimg">
           <img src={myImg} alt="Myself" />
