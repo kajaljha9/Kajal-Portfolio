@@ -110,9 +110,15 @@ export const Projects = () => {
           <p>
             <span>Tech Stack: </span>ReactJS, Material UI.
           </p>
-          {/* <p>
-            <span>URL: </span>  underconstruction
-          </p> */}
+          <p>
+            <span>URL: </span>
+            <a
+              className="projectlink"
+              href="https://wanderwish-rfy8.onrender.com/listings"
+            >
+              https://weather-app-by-kajal.vercel.app/
+            </a>
+          </p>
           <div className="prCardTs">
             <RiReactjsFill style={{ color: "#3776ab" }} className="tsIc" />
             <img src={muiicon} alt="mui_icon" className="tsIc"></img>
