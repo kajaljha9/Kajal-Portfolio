@@ -53,18 +53,16 @@ export const Home = () => {
         </p>
         <p>
           Aspiring Web Developer with hands-on experience in React.js, Node.js,
-          Express.js, and MongoDB. I have a proven ability to design and
-          implement user-friendly interfaces while collaborating effectively
-          within cross-functional teams. I am eager to leverage my skills in web
-          development roles, driven by a passion for continuous learning and a
-          commitment to delivering high-quality software solutions. I thrive on
-          tackling challenges and am excited about the opportunity to contribute
-          to innovative projects.
+          Express.js, and MongoDB. Proven ability to design and implement
+          user-friendly interfaces while effectively collaborating within
+          cross-functional teams. Seeking to leverage web development expertise
+          in challenging roles, driven by a passion for continuous learning and
+          a commitment to delivering high-quality software solutions. Thrive on
+          tackling challenges and eager to contribute to innovative projects.
         </p>
         <div className="homeCont">
           <a
-            // href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
-            href="https://drive.google.com/file/d/1tBAuAmsQmLzqLEySzNggaDpWFqNVrQze/view?usp=sharing"
+            href="https://drive.google.com/file/d/1blRjFTEoL5wdiFDNlmPK1JAWBPsHOBPu/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >

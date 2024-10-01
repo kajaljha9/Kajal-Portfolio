@@ -138,9 +138,7 @@ export const Navbar = () => {
         </p>
         <p>
           <a
-            
-            // href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
-            href="https://drive.google.com/file/d/1tBAuAmsQmLzqLEySzNggaDpWFqNVrQze/view?usp=sharing"
+            href="https://drive.google.com/file/d/1blRjFTEoL5wdiFDNlmPK1JAWBPsHOBPu/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >
@@ -292,8 +290,7 @@ export const Navbar = () => {
           </p>
           <p>
             <a
-              // href="https://drive.google.com/file/d/1KeFDe8L0jJ2cnpz5171KWnljFQKIZ2qz/view?usp=sharing"
-              href="https://drive.google.com/file/d/1tBAuAmsQmLzqLEySzNggaDpWFqNVrQze/view?usp=sharing"
+              href="https://drive.google.com/file/d/1blRjFTEoL5wdiFDNlmPK1JAWBPsHOBPu/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
