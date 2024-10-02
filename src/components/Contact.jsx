@@ -107,7 +107,7 @@ export const Contact = () => {
             </div>
           </div>
         </div>
-        <div
+        {/* <div
           id="contactForm"
           style={{
             "--bg2": light ? "#122d54d4" : "white",
@@ -150,7 +150,7 @@ export const Contact = () => {
             />
             <input type="submit" value="SEND MESSAGE" />
           </form>
-        </div>
+        </div> */}
       </div>
       <div id="failbox" style={{ display: msgStatus.fail ? "flex" : "none" }}>
         <div id="failureAlert">
