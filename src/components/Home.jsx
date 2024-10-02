@@ -62,7 +62,7 @@ export const Home = () => {
         </p>
         <div className="homeCont">
           <a
-            href="https://drive.google.com/file/d/1blRjFTEoL5wdiFDNlmPK1JAWBPsHOBPu/view?usp=sharing"
+            href="https://drive.google.com/file/d/1y1Gfsu_RbDqu_ZsLd-MoSr9b4XrhQeUi/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >
