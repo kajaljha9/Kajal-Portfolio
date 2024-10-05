@@ -114,7 +114,7 @@ export const Projects = () => {
             <span>URL: </span>
             <a
               className="projectlink"
-              href="https://wanderwish-rfy8.onrender.com/listings"
+              href="https://weather-app-by-kajal.vercel.app/"
             >
               https://weather-app-by-kajal.vercel.app/
             </a>
