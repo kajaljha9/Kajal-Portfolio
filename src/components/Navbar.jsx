@@ -35,14 +35,14 @@ export const Navbar = () => {
         window.scrollTo({
           top: projects.offsetTop - 50,
           left: 0,
-          behavior: "smooth",
+          behavior: "smooth"
         });
       }, 1000);
     } else {
       window.scrollTo({
         top: projects.offsetTop - 50,
         left: 0,
-        behavior: "smooth",
+        behavior: "smooth"
       });
     }
   };
@@ -64,7 +64,7 @@ export const Navbar = () => {
       className="nav"
       style={{
         "--backgroundnav": light ? "#edf2f8" : "#0a192f",
-        "--navTextHover": light ? "#dc143c" : "#64ffda",
+        "--navTextHover": light ? "#dc143c" : "#64ffda"
       }}
     >
       <div>
@@ -97,12 +97,12 @@ export const Navbar = () => {
             ? {
                 "--navText": "black",
                 "--navTextHover": "#edf2f8",
-                "--hover": "#dc143c",
+                "--hover": "#dc143c"
               }
             : {
                 "--navText": "rgba(255,255,255,0.9)",
                 "--navTextHover": "#4a5d80dd",
-                "--hover": "#64ffda",
+                "--hover": "#64ffda"
               }
         }
       >
@@ -138,7 +138,7 @@ export const Navbar = () => {
         </p>
         <p>
           <a
-            href="https://drive.google.com/file/d/1msYpF8j-QDJDUyxlUfEBJdS_NhRAmtek/view?usp=sharing"
+            href="https://drive.google.com/file/d/1pggtgVOunlVAC_JZg7OoAPEh9Siff241/view?usp=sharing"
             style={{ textDecoration: "none" }}
             download="Kajal_Resume"
           >
@@ -177,7 +177,7 @@ export const Navbar = () => {
           style={{
             color: light ? "black" : "rgba(255,255,255,0.9)",
             fontSize: "20px",
-            padding: "0px",
+            padding: "0px"
           }}
         >
           <GiHamburgerMenu
@@ -209,7 +209,7 @@ export const Navbar = () => {
         style={{
           display: drawer ? "flex" : "none",
           "--back1": light ? "#dc143cc5" : "#64ffdb9c",
-          "--back2": light ? "#dc143c90" : "#64ffdd68",
+          "--back2": light ? "#dc143c90" : "#64ffdd68"
         }}
       >
         <svg viewBox="0 0 100 120" style={{ height: "55px", width: "62px" }}>
@@ -241,13 +241,13 @@ export const Navbar = () => {
                   "--navText": "black",
                   "--navTextHover": "#edf2f8",
                   background: "#edf2f8",
-                  "--hover": "#dc143c",
+                  "--hover": "#dc143c"
                 }
               : {
                   "--navText": "rgba(255,255,255,0.9)",
                   "--navTextHover": "#4a5d80dd",
                   background: "#0a192f",
-                  "--hover": "#64ffda",
+                  "--hover": "#64ffda"
                 }
           }
         >
@@ -258,7 +258,7 @@ export const Navbar = () => {
               color: light ? "black" : "rgba(255,255,255,0.9)",
               fontSize: "25px",
               marginLeft: "250px",
-              padding: "0px",
+              padding: "0px"
             }}
           >
             <CgCloseR style={{ padding: "10px 10px" }} />
@@ -290,7 +290,7 @@ export const Navbar = () => {
           </p>
           <p>
             <a
-              href="https://drive.google.com/file/d/1msYpF8j-QDJDUyxlUfEBJdS_NhRAmtek/view?usp=sharing"
+              href="https://drive.google.com/file/d/1pggtgVOunlVAC_JZg7OoAPEh9Siff241/view?usp=sharing"
               target="_blank"
               rel="noopener noreferrer"
             >
