@@ -230,7 +230,7 @@ export const Navbar = () => {
             fontSize="50px"
             fontWeight="640"
           >
-            A
+            K
           </text>
         </svg>
         <div
